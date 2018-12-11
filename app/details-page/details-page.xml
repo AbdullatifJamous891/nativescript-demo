@@ -1,0 +1,9 @@
+<!-- posts-page.xml-->
+<Page loaded="pageloaded" navigatingTo="pageNavigatingTo">
+    <!-- Each page can have only a single root view -->
+    <StackLayout>
+        <!-- content here -->
+        <Label text="{{email}}"/>
+        <Label text="{{name}}"/>
+    </StackLayout>
+</Page>
