@@ -1,8 +1,0 @@
-{
-	"nativescript-fancyalert": {
-		"/home/abdullatif/Desktop/nativescript-demo/node_modules/nativescript-fancyalert/platforms/android/include.gradle": "4177fc8187dc055a374e178005957f1c932606a9"
-	},
-	"tns-core-modules-widgets": {
-		"/home/abdullatif/Desktop/nativescript-demo/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "efe67a699a507e38b3daf4e9903fc0cdc9435a86"
-	}
-}
