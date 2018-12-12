@@ -1,0 +1,27 @@
+<!--
+The markup in NativeScript apps contains a series of user interface components, each
+of which NativeScript renders with a platform-specific iOS or Android native control.
+You can find a full list of user interface components you can use in your app at
+https://docs.nativescript.org/ui/components.
+-->
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 
+      navigatingTo="navigatingTo" class="page"
+      navigatedFrom="onNavigatedFrom"
+      navigatedTo="onNavigatedTo"
+      loaded="onPageLoaded"
+      navigatingFrom="onNavigatingFrom">
+    
+    <Page.actionBar>
+        <ActionBar title="My App" icon="" class="action-bar">
+        </ActionBar>
+    </Page.actionBar>
+
+    <ListView items="{{ items }}" itemTap="{{ listViewItemTap }}" loaded="{{ onListViewLoaded }}" separatorColor="orangered" rowHeight="50" class="list-group" id="listView" row="2">
+        <ListView.itemTemplate>
+            <StackLayout class="list-group-item">
+                <Label text="{{ name || 'Downloading...' }}" textWrap="true" class="title" />
+            </StackLayout>
+        </ListView.itemTemplate>
+    </ListView>
+
+</Page>

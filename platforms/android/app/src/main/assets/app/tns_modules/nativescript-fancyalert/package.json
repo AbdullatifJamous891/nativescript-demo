@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      "nativescript-fancyalert",
+      "/home/abdullatif/Desktop/nativescript-demo"
+    ]
+  ],
+  "_from": "nativescript-fancyalert@latest",
+  "_hasShrinkwrap": false,
+  "_id": "nativescript-fancyalert@3.0.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nativescript-fancyalert",
+  "_nodeVersion": "10.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-fancyalert_3.0.6_1541468218584_0.9483130087888927"
+  },
+  "_npmUser": {
+    "email": "walkerrunpdx@gmail.com",
+    "name": "walkerrunpdx"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nativescript-fancyalert",
+    "raw": "nativescript-fancyalert",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-fancyalert/-/nativescript-fancyalert-3.0.6.tgz",
+  "_shasum": "c9aa9df4ffe5d465c4160838a195c19dba5ee4f3",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-fancyalert",
+  "_where": "/home/abdullatif/Desktop/nativescript-demo",
+  "author": {
+    "email": "walkerrunpdx@gmail.com",
+    "name": "Nathan Walker"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanWalker/nativescript-fancyalert/issues"
+  },
+  "contributors": [
+    {
+      "name": "Brad Martin",
+      "email": "bradwaynemartin@gmail.com",
+      "url": "https://github.com/bradmartin"
+    }
+  ],
+  "dependencies": {},
+  "description": "Fancy alerts for NativeScript.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 8,
+    "integrity": "sha512-kTn8yENTO2O3KhvbAQCN+ktkHVjN7BFRyLYw88+29APoDw5p6/A/DeXdNm98DCVat4JShCDJWhkCKnYUJTQ/yA==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb4PA7CRA9TVsSAnZWagAA4EcP/jNsGs7fxG9wNZsluSWT\nD+bR3tIlkPX02DtXKGHLiT9La9jMcGsLARrbep9IjDO51/G7n63C9QRUVIuL\nU0KgHVk2nex0wqUGt5pVxLAopq+w6Qfx+MmZgy4SgIwEu5DymT8GUmUU+iri\nXXRzvUF3IukNtVJvmZMfwoEaYMDyEtia4s2EMnefkqncceCiiJIOmhE9knFx\nkLsasVAo+KKrz0iw93VUk8fvP2v3QWKS2/38yzBXS8ksBiC1gMnMxJM5MpRh\nlhGqV4tTwifUvmtulKdShfERWfgSR/3g/zdZ3NrcMsvrT7VPjNVUZa0ekMq0\n/9O2xqipm67ZqsVQ/iGQH0ZCim0WO0Ab9845XJdk7XXejyHJwj7Nxi+q4kmb\n9ELHsQDSRxI9F7FSzz1KEi0fr64NRHtexpWKnawKt6pxNNQqJ5T0LVtS+VkO\nvIQ7vwt4x52NmMafCz26qVfavPig/0zcpKBcow05kZfFicj6nXphCl+prDWj\nP8jutAl7p/89B384P8QCbcwPoEm1QfgshP2BlNVLqYzVXvotqnv1gh4jCjVN\nzl45JTl+tP72K6OdF1rj4qQVwV6wNOaFdVJSG4oseHweeQxipA+IwHh5OyQ0\nKaLeHMORK7QeahQTjk0YY6Phvn9QlLWiTusNKNcqjXcAP/S8dKitzZM0rkjy\n+JAL\r\n=b0Q/\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "c9aa9df4ffe5d465c4160838a195c19dba5ee4f3",
+    "tarball": "https://registry.npmjs.org/nativescript-fancyalert/-/nativescript-fancyalert-3.0.6.tgz",
+    "unpackedSize": 48016
+  },
+  "homepage": "https://github.com/NathanWalker/nativescript-fancyalert",
+  "keywords": [
+    "Android",
+    "NativeScript",
+    "alert",
+    "dialogs",
+    "iOS"
+  ],
+  "license": "MIT",
+  "main": "fancyalert",
+  "maintainers": [
+    {
+      "name": "walkerrunpdx",
+      "email": "walkerrunpdx@gmail.com"
+    }
+  ],
+  "name": "nativescript-fancyalert",
+  "nativescript": {
+    "platforms": {
+      "android": "4.1.3",
+      "ios": "4.0.1"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanWalker/nativescript-fancyalert.git"
+  },
+  "typings": "index.d.ts",
+  "version": "3.0.6"
+}
